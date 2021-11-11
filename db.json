@@ -1,0 +1,18 @@
+{
+    "blogs": [
+        {
+            "heading": "Sed ut perspiciatis unde omnis iste natus",
+            "heading2": "unde omnis iste natus Sed ut perspiciatis",
+            "heading3": "perspiciatis unde Sed ut omnis iste natus",
+            "subtitle": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.",
+            "subtitle2": "error sit voluptatem accusantium doloremque Sed ut perspiciatis unde omnis iste natus.",
+            "subtitle3": "Sed ut perspiciatis unde accusantium doloremque omnis iste natus error sit voluptatem.",
+            "button": "Read more",
+            "imageurl": "https://images.unsplash.com/photo-1578158335529-27b8d78cfea5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2071&q=80",
+            "imageurl2": "https://images.unsplash.com/photo-1594495894542-a46cc73e081a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1171&q=80",
+            "imageurl3": "https://images.unsplash.com/photo-1538485149844-c953a1e080da?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+            "id": 1
+        }
+    ]
+    
+}
